@@ -3,7 +3,7 @@ public class AllTypesOfOperators
     public static void main(String args[])
     {
         int a = 5;
-        int b = 10;        
+        int b = 10;         
         // 1) Arithmetic operator(op.)         // ++ --        // * / %         // + -        // condition ? true block of code : false block of code ;
         System.out.println(a++);
         System.out.println(++a);
